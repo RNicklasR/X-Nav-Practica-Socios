@@ -1,0 +1,27 @@
+
+
+{
+"timeline":[
+{
+"author":"Pepe",
+"avatar":"http://fotos.trucoteca.com/guias/GabrielLazaro12489583261248958351.jpg",
+"title":"hey",
+"content":"a ver si t veo el pelo",
+"date":"22/4/2015"
+},
+{
+"author":"Ana",
+"avatar":"http://www.unitec.mx/wp-content/uploads/2012/05/Admon_negocios.jpg",
+"title":"hi",
+"content":"Long time no see.",
+"date":"22/4/2015"
+},
+{
+"author":"Paco",
+"avatar":"http://staffbridge.com.mx/img/pensando.jpg",
+"title":"Urgente",
+"content":"Pasate por la ofi ASAP",
+"date":"22/4/2015"
+}
+]
+}

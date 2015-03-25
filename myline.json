@@ -1,0 +1,26 @@
+
+{
+"myline":[
+{
+"author":"Juan",
+"avatar":"img/ejec1.jpg",
+"title":"bla",
+"content":"Hasta arriba de trabajo.",
+"date":"22/4/2015"
+},
+{
+"author":"Juan",
+"avatar":"img/ejec1.jpg",
+"title":"bla2",
+"content":"Parece interesante esta nueva web",
+"date":"22/4/2015"
+},
+{
+"author":"Juan",
+"avatar":"img/ejec1.jpg",
+"title":"bla3",
+"content":"10 fascinating facts about birds",
+"date":"22/4/2015"
+}
+]
+}

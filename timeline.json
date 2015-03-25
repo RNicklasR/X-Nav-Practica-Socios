@@ -1,0 +1,27 @@
+
+
+{
+"timeline":[
+{
+"author":"Pepe",
+"avatar":"img/ejec3.jpg",
+"title":"hey",
+"content":"a ver si t veo el pelo",
+"date":"22/4/2015"
+},
+{
+"author":"Ana",
+"avatar":"img/ejec2.jpg",
+"title":"hi",
+"content":"Long time no see.",
+"date":"22/4/2015"
+},
+{
+"author":"Paco",
+"avatar":"img/ejec4.jpg",
+"title":"Urgente",
+"content":"Pasate por la ofi ASAP",
+"date":"22/4/2015"
+}
+]
+}
